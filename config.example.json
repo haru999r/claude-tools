@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "my-app": {
+      "dir": "~/works/my-app",
+      "claude_cmd": "claude",
+      "claude_opts": "--enable-auto-mode",
+      "last_pane_prompt": null
+    },
+    "backend": {
+      "dir": "~/works/backend",
+      "claude_cmd": "claude",
+      "claude_opts": "",
+      "last_pane_prompt": "/run-server -s backend"
+    }
+  }
+}
